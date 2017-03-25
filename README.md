@@ -20,4 +20,4 @@ npm run start-telnet
 ```
 - Open a new Terminal tab to connect to the Telnet server: `telnet localhost 2000`
 
-That's it! To learn how he built the bot and what it does, [see the tutorial](http://developer.telerik.com/content-types/tutorials/building-conversational-bot-javascript/.
+That's it! To learn how he built the bot and what it does, [see the tutorial](http://developer.telerik.com/content-types/tutorials/building-conversational-bot-javascript/].
